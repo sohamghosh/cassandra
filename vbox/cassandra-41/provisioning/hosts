@@ -1,0 +1,2 @@
+[cassandra-server]
+192.168.33.41 ansible_connection=ssh
